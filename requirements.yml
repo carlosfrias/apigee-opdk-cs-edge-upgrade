@@ -1,8 +1,6 @@
 ---
 - src: https://github.com/carlosfrias/apigee-opdk-setup-default-settings
 
-- src: https://github.com/carlosfrias/apigee-opdk-backup
-
 - src: https://github.com/carlosfrias/apigee-opdk-setup-component-installer
 
 - src: https://github.com/carlosfrias/apigee-opdk-set-reachable
@@ -15,7 +13,7 @@
 
 - src: https://github.com/carlosfrias/apigee-opdk-stop-components
 
-- src: https://github.com/carlosfrias/apigee-opdk-backup
+- src: https://github.com/carlosfrias/apigee-opdk-backup.git
 
 - src: https://github.com/carlosfrias/apigee-opdk-restore
 
